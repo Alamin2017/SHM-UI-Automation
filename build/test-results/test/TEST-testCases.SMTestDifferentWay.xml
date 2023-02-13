@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.SMTestDifferentWay" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-02-13T09:43:28" hostname="AMIN-AL01" time="34.306">
+  <properties/>
+  <testcase name="test_CSC_MCC_Clickable" classname="testCases.SMTestDifferentWay" time="5.64"/>
+  <testcase name="test_Welcome_to_SHM" classname="testCases.SMTestDifferentWay" time="28.661"/>
+  <system-out><![CDATA[CSC and MCC Click is Done 
+SHM Title assert is Done
+SHM Text assert is Done
+SHM Icon is Visible
+SHM TC_PP Text:By accepting, you agree to the Samsung Health Monitor Terms of Use and Privacy Policy.
+TC PP assert is done
+Accept button Visibility:true
+Accept button is Visible
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
