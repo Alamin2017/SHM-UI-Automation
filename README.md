@@ -49,3 +49,4 @@ testImplementation group: 'org.testng', name: 'testng', version: '7.4.0' impleme
 For Java in MacOS :
 https://phoenixnap.com/kb/install-java-macos
 https://www.youtube.com/watch?v=CmgOWVosd1Y
+https://www.youtube.com/watch?v=VBWj3iEYL7Q
