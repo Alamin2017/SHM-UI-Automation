@@ -45,3 +45,6 @@ push "adb shell dumpsys window | find "mCurrentFocus" "
 Gradle_dependancy _workable for all:
 
 testImplementation group: 'org.testng', name: 'testng', version: '7.4.0' implementation group: 'org.seleniumhq.selenium', name: 'selenium-server', version: '3.141.59' implementation group: 'io.appium', name: 'java-client', version: '7.6.0
+
+For Java in MacOS :
+https://phoenixnap.com/kb/install-java-macos
